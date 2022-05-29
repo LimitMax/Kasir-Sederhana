@@ -1,4 +1,4 @@
-# Kasir-Sederhana
+# Kasir-Sederhana-Java-GUI-AWT/SWING
 
 Program Kasir Sederhana Java AWT GUI
 Program ini untuk memenuhi UTS Matkul Pemrograman Visual GUI
